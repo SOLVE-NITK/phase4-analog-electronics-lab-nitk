@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(29, 180, 148);
+}
+
+.button{
+    margin: 20px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.b1:hover {background-color: beige; cursor: pointer; text-decoration: none;}
+
+
+.b2{
+    margin: 20px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.b2:hover {background-color: beige; cursor: pointer; text-decoration: none;}
+
+
+h1{
+    text-align: center;
+    margin-left: 95px;
+}
+h2{
+    text-align: center;
+}
